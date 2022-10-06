@@ -11,6 +11,9 @@
 </p>
 <p align="left"> <a href="https://holopin.io/@yuansheva"><img src="https://holopin.io/api/user/board?user=yuansheva" alt="yuansheva" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=yuansheva&theme=juicyfresh&column=-1]" alt="yuansheva" /></a> </p>
+
+
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
