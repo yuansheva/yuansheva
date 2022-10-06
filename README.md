@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuansheva&theme=juicyfresh&column=-1" alt="yuansheva" /></a> </p>
 
-<br><br><br><br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
     <td align="center" width="96">
