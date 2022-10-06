@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Instagram-%231DA1F2.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a> 
 </p>
-[![@yuansheva's Holopin board](https://holopin.io/api/user/board?user=yuansheva)](https://holopin.io/@yuansheva)
+<p align="left"> <a href="https://holopin.io/@yuansheva"><img src="https://holopin.io/api/user/board?user=yuansheva" alt="yuansheva" /></a> </p>
 
 <hr>
 
